@@ -9,7 +9,7 @@
 
 ### 🧐 About Me:
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/213760686-dcb02031-af46-4b9d-a6b1-9c367a379d9f.gif" height="370px" tyle="vertical-align:center; margin:4px"/>
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/213760686-dcb02031-af46-4b9d-a6b1-9c367a379d9f.gif" height="370px" style="vertical-align:center; margin:4px"/>
 
 - 📚 &nbsp; I’m currently learning on [4 Geeks Academy](https://https://4geeksacademy.com/es/inicio).
 - 🤝 &nbsp; I’m looking for remote developer job.
