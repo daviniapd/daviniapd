@@ -1,4 +1,4 @@
-## Hi there, I'm Davinia! 🦕
+ ## Hi there, I'm Davinia! 🦕
 <p align='center'>
    <a href="https://www.linkedin.com/in/davinia-p-delgado"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
    <a href=""><img height="30" src="https://cdn-icons-png.flaticon.com/256/324/324123.png"></a>&nbsp;&nbsp;
@@ -7,7 +7,7 @@
 
 
 <div align="center">
-<h3><iframe src="https://giphy.com/embed/Kfl09udXYhbjajJwEt" width="30" height="30" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/Kfl09udXYhbjajJwEt">via GIPHY</a></p> 👩‍💻 Full Stack Developer | 🪂 Spain <iframe src="https://giphy.com/embed/Kfl09udXYhbjajJwEt" width="30" height="30" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/Kfl09udXYhbjajJwEt">via GIPHY</a></p> </h3>
+<h3><iframe src="https://giphy.com/embed/Kfl09udXYhbjajJwEt" width="30" height="30" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/Kfl09udXYhbjajJwEt">via GIPHY</a></p> 👩‍💻 Full Stack Developer | 🪂 Spain <iframe src="https://giphy.com/embed/Kfl09udXYhbjajJwEt" width="30" height="30" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe> </h3>
 </div>
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/213760686-dcb02031-af46-4b9d-a6b1-9c367a379d9f.gif" width="360px"/>
