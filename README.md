@@ -1,28 +1,27 @@
-## Hi there, I'm Davinia! 🤸‍♀️
+## Hi there, I'm Davinia! 🦕
 <p align='center'>
-   <a href="www.linkedin.com/in/davinia-p-delgado"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/davinia-p-delgado"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
    <a href=""><img height="30" src="https://cdn-icons-png.flaticon.com/256/324/324123.png"></a>&nbsp;&nbsp;
- <a href="www.coffee.com"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/coffee.jpg?raw=true"></a>&nbsp;&nbsp;
  </p>
 
 
 
 <div align="center">
-<h3><img src="https://giphy.com/embed/Kfl09udXYhbjajJwEt" width="30"> 🦕 @daviniapd | 👩‍💻 Full Stack Developer | 🪂 Spain <img src="https://giphy.com/embed/Kfl09udXYhbjajJwEt" width="30"></h3>
+<h3><iframe src="https://giphy.com/embed/Kfl09udXYhbjajJwEt" width="30" height="30" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/Kfl09udXYhbjajJwEt">via GIPHY</a></p> 👩‍💻 Full Stack Developer | 🪂 Spain <iframe src="https://giphy.com/embed/Kfl09udXYhbjajJwEt" width="30" height="30" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/Kfl09udXYhbjajJwEt">via GIPHY</a></p> </h3>
 </div>
 
-<img align="right" alt="GIF" src="giphy.com/embed/Xf6z5nwL7YgHVAU9vE" width="360px"/>
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/213760686-dcb02031-af46-4b9d-a6b1-9c367a379d9f.gif" width="360px"/>
   
 ### 🧐 About Me:
 
-- 📚 &nbsp; I’m currently learning on [4 Geeks Academy](https://https://4geeksacademy.com/es/inicio)
-- 🤝 &nbsp; I’m looking for remote developer job;
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/daviniapd?tab=repositories)
-- 🎥 &nbsp; Previosly, I'm audiovisual producer, camera and video/photo editor; 
-- 🎨 &nbsp; My previous skills and knowledge facilitate my learning speed in web design;
+- 📚 &nbsp; I’m currently learning on [4 Geeks Academy](https://https://4geeksacademy.com/es/inicio).
+- 🤝 &nbsp; I’m looking for remote developer job.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/daviniapd?tab=repositories).
+- 🎥 &nbsp; Previosly, I'm audiovisual producer, camera and video/photo editor.
+- 🎨 &nbsp; My previous skills and knowledge facilitate my learning speed in web design.
 - 📝 &nbsp; I love technology, that's why I decided to take this career turn. 
-- 💬 &nbsp; Ask me about anything information to me related, I am happy to answer;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/davinia-p-delgado);
+- 💬 &nbsp; Ask me about anything information to me related, I am happy to answer.
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/davinia-p-delgado).
 - 🌱 &nbsp; When I am free, I really enjoy going to the nature with my dog and my friends. 
 
 <br>
@@ -31,23 +30,48 @@
 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
-  <img src="svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="svg/dev/languages/php.svg" alt="php" style="vertical-align:top; margin:6px 4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-  <img src="svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:6px 4px">
-  <img src="svg/dev/frameworks/jquery.svg" alt="jquery" style="vertical-align:top; margin:6px 4px">
-  <img src="svg/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px">
-  <img src="https://www.svgrepo.com/show/473611/flask.svg" alt="flask" style="vertical-align:top; margin:4px">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/MySQL_textlogo.svg/2560px-MySQL_textlogo.svg.png" alt="mysql" style="vertical-align:top; margin:4px">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" alt="git" style="vertical-align:top; margin:4px">  
-  <img src="https://iconape.com/wp-content/files/dx/352988/svg/jest-seeklogo.com.svg" alt="jestjs" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">  
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+
+  <a href="#">
+    <img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
+  </a>    
+  <a href="#">
+    <img src="svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  <a href="#">
+    <img src="svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  <a href="#">
+    <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+  </a>  <<
+  <a href="#">
+    <img src="svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
+  </a>  
+   <a href="#">
+    <img src="svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  <a href="#">
+    <img src="svg/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" style="vertical-align:top; margin:4px">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" style="vertical-align:top; margin:4px">  
+  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jestjs" style="vertical-align:top; margin:4px">
+  <a href="#">
+    <img src="svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:6px 4px">
+  </a> 
+  <a href="#">
+    <img src="svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:6px 4px">
+  </a> 
+   <a href="#">
+    <img src="svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:6px 4px">
+  </a>  
+       <a href="#">
+    <img src="svg/dev/services/office_365.svg" alt="office 365" style="vertical-align:top; margin:6px 4px">
+  </a> 
+  <a href="#">
+    <img src="svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
+  </a> 
+
 </p>
 
 ### 👾 Github Stats...
