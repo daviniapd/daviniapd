@@ -14,7 +14,7 @@
 - 📚 &nbsp; I’m currently learning on [4 Geeks Academy](https://https://4geeksacademy.com/es/inicio).
 - 🤝 &nbsp; I’m looking for remote developer job.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/daviniapd?tab=repositories).
-- 🎥 &nbsp; Previosly, I'm audiovisual producer, camera and video/photo editor.
+- 🎥 &nbsp; Previosly, I'm audiovisual producer and video/photo editor.
 - 🎨 &nbsp; My previous skills and knowledge facilitate my learning speed in web design.
 - 📝 &nbsp; I love technology, that's why I decided to take this career turn. 
 - 💬 &nbsp; Ask me about anything information to me related, I am happy to answer.
