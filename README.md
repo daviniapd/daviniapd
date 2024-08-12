@@ -7,7 +7,7 @@
 
 
 <div align="center">
-<h3><iframe src="https://giphy.com/embed/Kfl09udXYhbjajJwEt" width="30" height="30" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/Kfl09udXYhbjajJwEt">via GIPHY</a></p> 👩‍💻 Full Stack Developer | 🪂 Spain <iframe src="https://giphy.com/embed/Kfl09udXYhbjajJwEt" width="30" height="30" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe> </h3>
+<h3><img align="right" alt="GIF" src="https://giphy.com/embed/Kfl09udXYhbjajJwEt" width="30px"/> 👩‍💻 Full Stack Developer | 🪂 Spain <img align="right" alt="GIF" src="https://giphy.com/embed/Kfl09udXYhbjajJwEt" width="30px"/> </h3>
 </div>
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/213760686-dcb02031-af46-4b9d-a6b1-9c367a379d9f.gif" width="360px"/>
