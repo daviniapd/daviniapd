@@ -7,9 +7,9 @@
 
 <br />
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/213760686-dcb02031-af46-4b9d-a6b1-9c367a379d9f.gif" height="300px"/>
-
 ### 🧐 About Me:
+
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/213760686-dcb02031-af46-4b9d-a6b1-9c367a379d9f.gif" height="300px"/>
 
 - 📚 &nbsp; I’m currently learning on [4 Geeks Academy](https://https://4geeksacademy.com/es/inicio).
 - 🤝 &nbsp; I’m looking for remote developer job.
@@ -39,7 +39,7 @@
 
    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a> 
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">	<img width="40px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/css-icon.svg" alt="CSS Icon" /></a> 
- <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a> 
+ <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">      <img src="https://skillicons.dev/icons?i=flask" width="40px" alt="Flask icon"/></a> 
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
  <a href="https://jestjs.io" target="_blank" rel="noreferrer"><img width="40px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/jest-icon.svg" alt="Jest Icon" /></a> 
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="40" height="40" style="vertical-align:down; margin:4px"/></a> 
