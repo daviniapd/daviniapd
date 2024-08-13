@@ -2,8 +2,8 @@
  
 
 <div align='left'> 
+  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/213760686-dcb02031-af46-4b9d-a6b1-9c367a379d9f.gif" height="280px"/>
  <h3>👩‍💻 Full Stack Developer | 🪂 Spain </h3>&nbsp;&nbsp; 
- <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/213760686-dcb02031-af46-4b9d-a6b1-9c367a379d9f.gif" height="280px"/>
  <a href="https://www.linkedin.com/in/davinia-p-delgado" target="_blank"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>   
  <a href="mailto: daviniaperezdelgado@gmail.com" target="_blank"><img height="30" src="https://cdn-icons-png.flaticon.com/256/324/324123.png"></a>  
  </div>
