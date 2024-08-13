@@ -59,7 +59,7 @@
 </p>
  -->
 
-### 🍃 Thanks for visiting!  <img src="https://github.com/user-attachments/assets/6e65f204-1c12-4695-8b5d-3df56f21e3f2" alt="chrome" style="vertical-align:top; margin:4px" height="25px"> 
+### 🍃 Thanks for visiting!  <img src="https://github.com/user-attachments/assets/6e65f204-1c12-4695-8b5d-3df56f21e3f2" alt="chrome" style="vertical-align:top; margin:4px; opacity:0.75; height:25px">
 
 
 <p align="center">
