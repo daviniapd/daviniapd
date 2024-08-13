@@ -1,6 +1,6 @@
  ## Hi there, I'm Davinia! 🦕
  
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/213760686-dcb02031-af46-4b9d-a6b1-9c367a379d9f.gif" height="300px"/>
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/213760686-dcb02031-af46-4b9d-a6b1-9c367a379d9f.gif" height="320px"/>
 <div align='left'> 
  <h3>👩‍💻 Full Stack Developer | 🪂 Spain </h3>&nbsp;&nbsp; 
  <a href="https://www.linkedin.com/in/davinia-p-delgado" target="_blank"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>   
@@ -8,8 +8,6 @@
  </div>
 
 <br />
-
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/213760686-dcb02031-af46-4b9d-a6b1-9c367a379d9f.gif" height="300px"/>
 
 ### 🧐 About Me:
 
