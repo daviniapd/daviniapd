@@ -47,14 +47,14 @@
 
 </p>
 
-[### 👾 Github Stats...
+  <!--### 👾 Github Stats...
 <p align="center" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=daviniapd&&show_icons=true&theme=radical"/>
   </a>
 
 </p>
-](url)
+ -->
 
 ### 🍃 Thanks for visiting!  <img src="https://github.com/user-attachments/assets/6e65f204-1c12-4695-8b5d-3df56f21e3f2" alt="chrome" style="vertical-align:top; margin:4px" height="25px"> 
 
