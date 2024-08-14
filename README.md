@@ -16,7 +16,7 @@
 
 - 📚 &nbsp; I’m currently learning on [4 Geeks Academy](https://https://4geeksacademy.com/es/inicio).
 - 🤝 &nbsp; I’m looking for remote developer job.
-- <img src="https://github.com/user-attachments/assets/7773f638-a4ee-4667-bf3b-d967496a44a2" alt="diana" style="vertical-align:center; margin:2px; opacity:0.75; height:18px"> &nbsp; Most of my projects are available on [Github](https://github.com/daviniapd?tab=repositories).
+- <img src="https://github.com/user-attachments/assets/fdfb4d17-d06e-4946-b3b5-2e5dba6ca9c3" alt="diana" style="vertical-align:center; margin:2px; opacity:0.75; height:18px"> &nbsp; Most of my projects are available on [Github](https://github.com/daviniapd?tab=repositories).
 - 🎥 &nbsp; Previosly, I'm audiovisual producer and video/photo editor.
 - <img src="https://github.com/user-attachments/assets/2b21f2c4-ef99-4c1d-b441-1aabfe0ee7bc" alt="diana" style="vertical-align:center; margin:2px; opacity:0.75; height:18px"> &nbsp; My previous skills and knowledge facilitate my learning speed in web design.
 - 📝 &nbsp; I love technology, that's why I decided to take this career turn. 
