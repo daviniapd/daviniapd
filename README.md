@@ -20,7 +20,7 @@
 - 🎥 &nbsp; Previosly, I'm audiovisual producer and video/photo editor.
 - 🎨 &nbsp; My previous skills and knowledge facilitate my learning speed in web design.
 - 📝 &nbsp; I love technology, that's why I decided to take this career turn. 
-- <img src="https://github.com/user-attachments/assets/8270d883-7982-4717-8a2c-5fe676f30efc" alt="chrome" style="vertical-align:top; margin:4px; opacity:0.75; height:15px"> &nbsp; Ask me about anything information to me related, I am happy to answer.
+- <img src="https://github.com/user-attachments/assets/8270d883-7982-4717-8a2c-5fe676f30efc" alt="chrome" style="vertical-align:top; margin:4px; opacity:0.75; height:20px"> &nbsp; Ask me about anything information to me related, I am happy to answer.
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/davinia-p-delgado).
 - 🌱 &nbsp; When I am free, I really enjoy going to the nature with my dog and my friends. 
 
