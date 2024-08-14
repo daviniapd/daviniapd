@@ -4,7 +4,7 @@
 <div align='left'> 
 
  <h3>👩‍💻 Full Stack Developer   ||   <img src="https://github.com/user-attachments/assets/6c4cf216-bdff-4e73-ae17-834a5dc77f75" alt="diana" style="vertical-align:bottom; margin:2px; opacity:0.75; height:18px"> Spain </h3>&nbsp;&nbsp; 
- <div class="d-flex justificy-content-center">
+ <div align='left' align="center">
  <a href="https://www.linkedin.com/in/davinia-p-delgado" target="_blank"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>   
  <a href="" target="_blank"><img height="30" src="https://cdn-icons-png.flaticon.com/256/324/324123.png" ></a> <p> ⇨ daviniaperezdelgado@gmail.com  </p>
  </div>
