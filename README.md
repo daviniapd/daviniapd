@@ -22,7 +22,7 @@
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/davinia-p-delgado).
 - <img src="https://github.com/user-attachments/assets/cc6bf341-cabc-4226-85ba-fb1bff43d458" alt="speak" style="vertical-align:center; margin:2px; opacity:0.75; height:18px"> &nbsp; When I am free, I really enjoy going to the nature with my dog and my friends. 
 
-<br>
+<br />
 
 ### <img src="https://github.com/user-attachments/assets/31be5e71-5269-411e-9989-25a67c338170" alt="diana" style="vertical-align:center; margin:2px; opacity:0.75; height:25px"> Languages and Tools...
 
@@ -56,6 +56,8 @@
 
 </p>
  -->
+
+ <br />
 
 ###  <img src="https://github.com/user-attachments/assets/6e65f204-1c12-4695-8b5d-3df56f21e3f2" alt="chrome" style="vertical-align:center; margin:4px; opacity:0.75; height:25px"> Thanks for visiting! 
 
