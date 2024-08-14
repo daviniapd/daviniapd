@@ -3,7 +3,7 @@
 
 <div align='left'> 
 
- <h3>👩‍💻 Full Stack Developer   |   🪂 Spain </h3>&nbsp;&nbsp; 
+ <h3>👩‍💻 Full Stack Developer   ||   🪂 Spain </h3>&nbsp;&nbsp; 
  <a href="https://www.linkedin.com/in/davinia-p-delgado" target="_blank"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>   
  <a href="mailto: daviniaperezdelgado@gmail.com" target="_blank"><img height="30" src="https://cdn-icons-png.flaticon.com/256/324/324123.png"></a>  
  </div>
