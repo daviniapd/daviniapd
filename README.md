@@ -3,7 +3,7 @@
 
 <div align='left'> 
 
- <h3>👩‍💻 Full Stack Developer   ||   🪂 Spain </h3>&nbsp;&nbsp; 
+ <h3>👩‍💻 Full Stack Developer   ||   <img src="https://github.com/user-attachments/assets/6c4cf216-bdff-4e73-ae17-834a5dc77f75" alt="diana" style="vertical-align:center; margin:2px; opacity:0.75; height:18px"> Spain </h3>&nbsp;&nbsp; 
  <a href="https://www.linkedin.com/in/davinia-p-delgado" target="_blank"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>   
  <a href="mailto: daviniaperezdelgado@gmail.com" target="_blank"><img height="30" src="https://cdn-icons-png.flaticon.com/256/324/324123.png"></a>  
  </div>
@@ -16,17 +16,17 @@
 
 - 📚 &nbsp; I’m currently learning on [4 Geeks Academy](https://https://4geeksacademy.com/es/inicio).
 - 🤝 &nbsp; I’m looking for remote developer job.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/daviniapd?tab=repositories).
+- <img src="https://github.com/user-attachments/assets/7773f638-a4ee-4667-bf3b-d967496a44a2" alt="diana" style="vertical-align:center; margin:2px; opacity:0.75; height:18px"> &nbsp; Most of my projects are available on [Github](https://github.com/daviniapd?tab=repositories).
 - 🎥 &nbsp; Previosly, I'm audiovisual producer and video/photo editor.
-- 🎨 &nbsp; My previous skills and knowledge facilitate my learning speed in web design.
+- <img src="https://github.com/user-attachments/assets/2b21f2c4-ef99-4c1d-b441-1aabfe0ee7bc" alt="diana" style="vertical-align:center; margin:2px; opacity:0.75; height:18px"> &nbsp; My previous skills and knowledge facilitate my learning speed in web design.
 - 📝 &nbsp; I love technology, that's why I decided to take this career turn. 
-- <img src="https://github.com/user-attachments/assets/8270d883-7982-4717-8a2c-5fe676f30efc" alt="chrome" style="margin:2px; opacity:0.75; height:18px"> &nbsp; Ask me about anything information to me related, I am happy to answer.
+- <img src="https://github.com/user-attachments/assets/8270d883-7982-4717-8a2c-5fe676f30efc" alt="speak" style="vertical-align:center; margin:2px; opacity:0.75; height:18px"> &nbsp; Ask me about anything information to me related, I am happy to answer.
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/davinia-p-delgado).
 - 🌱 &nbsp; When I am free, I really enjoy going to the nature with my dog and my friends. 
 
 <br>
 
-### 👾 Languages and Tools...
+### <img src="https://github.com/user-attachments/assets/31be5e71-5269-411e-9989-25a67c338170" alt="diana" style="vertical-align:center; margin:2px; opacity:0.75; height:18px"> Languages and Tools...
 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
