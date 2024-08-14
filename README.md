@@ -19,7 +19,7 @@
 - <img src="https://github.com/user-attachments/assets/99d2647b-674b-459b-a85a-7a60088189da" alt="diana" style="vertical-align:center; margin:2px; opacity:0.75; height:18px"> &nbsp; Most of my projects are available on [Github](https://github.com/daviniapd?tab=repositories).
 - 🎥 &nbsp; Previosly, I'm audiovisual producer and video/photo editor.
 - <img src="https://github.com/user-attachments/assets/2b21f2c4-ef99-4c1d-b441-1aabfe0ee7bc" alt="diana" style="vertical-align:center; margin:2px; opacity:0.75; height:18px"> &nbsp; My previous skills and knowledge facilitate my learning speed in web design.
-- 📝 &nbsp; I love technology, that's why I decided to take this career turn. 
+- <img src="https://github.com/user-attachments/assets/1043f8dc-36c1-4a05-a223-c97f37d885e2" alt="diana" style="vertical-align:center; margin:2px; opacity:0.75; height:18px"> &nbsp; I love technology, that's why I decided to take this career turn. 
 - <img src="https://github.com/user-attachments/assets/8270d883-7982-4717-8a2c-5fe676f30efc" alt="speak" style="vertical-align:center; margin:2px; opacity:0.75; height:18px"> &nbsp; Ask me about anything information to me related, I am happy to answer.
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/davinia-p-delgado).
 - 🌱 &nbsp; When I am free, I really enjoy going to the nature with my dog and my friends. 
@@ -59,7 +59,7 @@
 </p>
  -->
 
-### 🍃 Thanks for visiting!  <img src="https://github.com/user-attachments/assets/6e65f204-1c12-4695-8b5d-3df56f21e3f2" alt="chrome" style="vertical-align:top; margin:4px; opacity:0.75; height:25px">
+###  <img src="https://github.com/user-attachments/assets/6e65f204-1c12-4695-8b5d-3df56f21e3f2" alt="chrome" style="vertical-align:center; margin:4px; opacity:0.75; height:25px"> Thanks for visiting! 
 
 
 <p align="center">
