@@ -59,7 +59,7 @@
 
  <br />
 
-###  <img src="https://github.com/user-attachments/assets/6e65f204-1c12-4695-8b5d-3df56f21e3f2" alt="chrome" style="vertical-align:middle; margin:4px; opacity:0.75; height:25px"> Thanks for visiting!  <img src="https://github.com/user-attachments/assets/864700de-074d-4416-8dae-8c421e602241" alt="chrome" style="vertical-align:middle; margin:4px; opacity:0.75; height:25px">
+###  <img src="https://github.com/user-attachments/assets/6e65f204-1c12-4695-8b5d-3df56f21e3f2" alt="chrome" style="vertical-align:middle; margin:4px; opacity:0.75; height:25px"> Thanks for visiting!  <img src="https://github.com/user-attachments/assets/864700de-074d-4416-8dae-8c421e602241" alt="chrome" style="vertical-align:bottom; margin:4px; opacity:0.75; height:25px">
 
 
 <p align="center">
