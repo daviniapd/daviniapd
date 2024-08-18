@@ -2,7 +2,7 @@
  
 
 <div align='left'style="vertical-align:middle">
-  <h3><img src="https://github.com/user-attachments/assets/24712f10-9514-450f-96bb-3876c859bf5c" alt="diana" style="vertical-align:middle; margin:2px; opacity:0.75; height:18px"> Full Stack Developer   ||   <img src="https://github.com/user-attachments/assets/6c4cf216-bdff-4e73-ae17-834a5dc77f75" alt="diana" style="vertical-align:bottom; margin:2px; opacity:0.75; height:18px"> Spain </h3>&nbsp;&nbsp; 
+  <h3><img src="https://github.com/user-attachments/assets/24712f10-9514-450f-96bb-3876c859bf5c" alt="diana" style="vertical-align:middle; margin:2px; opacity:0.75; height:25px"> Full Stack Developer   ||   <img src="https://github.com/user-attachments/assets/6c4cf216-bdff-4e73-ae17-834a5dc77f75" alt="diana" style="vertical-align:bottom; margin:2px; opacity:0.75; height:25px"> Spain </h3>&nbsp;&nbsp; 
   <a href="https://www.linkedin.com/in/davinia-p-delgado" target="_blank"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>   
   <a href="" target="_blank" style="display: inline-block; vertical-align: middle;"><img height="30" src="https://cdn-icons-png.flaticon.com/256/324/324123.png"></a> 
 </div>
@@ -17,7 +17,7 @@
 - <img src="https://github.com/user-attachments/assets/da7fe0b2-10b7-441c-8f68-7ddd2d31ada9" alt="star" style="vertical-align:middle; margin:2px; opacity:0.75; height:18px"> &nbsp; Most of my projects are available on [Github](https://github.com/daviniapd?tab=repositories).
 - 🎥 &nbsp; Previosly, I'm audiovisual producer and video/photo editor.
 - <img src="https://github.com/user-attachments/assets/2b21f2c4-ef99-4c1d-b441-1aabfe0ee7bc" alt="diana" style="vertical-align:middle; margin:2px; opacity:0.75; height:18px"> &nbsp; My previous skills and knowledge facilitate my learning speed in web design.
-- <img src="https://github.com/user-attachments/assets/1043f8dc-36c1-4a05-a223-c97f37d885e2" alt="diana" style="vertical-align:middle; margin:2px; opacity:0.75; height:18px"> &nbsp; I love technology, that's why I decided to take this career turn. 
+- <img src="https://github.com/user-attachments/assets/1043f8dc-36c1-4a05-a223-c97f37d885e2" alt="diana" style="vertical-align:middle; margin:2px; opacity:0.75; height:22px"> &nbsp; I love technology, that's why I decided to take this career turn. 
 - <img src="https://github.com/user-attachments/assets/fdeb748b-adec-49c6-b761-62aaa650a495" alt="speak" style="vertical-align:middle; margin:2px; opacity:0.75; height:18px"> &nbsp; Ask me about anything information to me related, I am happy to answer.
 - <img src="https://github.com/user-attachments/assets/f2952d15-df8a-4249-b4b3-1fb41356a628" alt="speak" style="vertical-align:middle; margin:2px; opacity:0.75; height:18px"> &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/davinia-p-delgado).
 - <img src="https://github.com/user-attachments/assets/cc6bf341-cabc-4226-85ba-fb1bff43d458" alt="speak" style="vertical-align:middle; margin:2px; opacity:0.75; height:18px"> &nbsp; When I am free, I really enjoy going to the nature with my dog and my friends. 
@@ -59,7 +59,7 @@
 
  <br />
 
-###  <img src="https://github.com/user-attachments/assets/6e65f204-1c12-4695-8b5d-3df56f21e3f2" alt="chrome" style="vertical-align:middle; margin:4px; opacity:0.75; height:25px"> Thanks for visiting! 
+###  <img src="https://github.com/user-attachments/assets/6e65f204-1c12-4695-8b5d-3df56f21e3f2" alt="chrome" style="vertical-align:middle; margin:4px; opacity:0.75; height:25px"> Thanks for visiting!  <img src="https://github.com/user-attachments/assets/864700de-074d-4416-8dae-8c421e602241" alt="chrome" style="vertical-align:middle; margin:4px; opacity:0.75; height:25px">
 
 
 <p align="center">
