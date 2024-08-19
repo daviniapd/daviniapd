@@ -3,7 +3,9 @@
 
 <div align='left'style="vertical-align:middle">
   <h3><img src="https://github.com/user-attachments/assets/24712f10-9514-450f-96bb-3876c859bf5c" alt="diana" style="vertical-align:middle; margin:2px; opacity:0.75; height:25px"> Full Stack Developer   ||   <img src="https://github.com/user-attachments/assets/6c4cf216-bdff-4e73-ae17-834a5dc77f75" alt="diana" style="vertical-align:bottom; margin:2px; opacity:0.75; height:25px"> Spain </h3>&nbsp;&nbsp; 
-  <a href="https://www.linkedin.com/in/davinia-p-delgado" target="_blank"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/davinia-p-delgado" target="_blank">
+    <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true">
+</a>
   <a href="" target="_blank" style="display: inline-block; vertical-align: middle;"><img height="30" src="https://cdn-icons-png.flaticon.com/256/324/324123.png"></a> 
 </div>
 
