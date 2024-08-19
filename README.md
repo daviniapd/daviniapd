@@ -9,17 +9,17 @@
 
    <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/213760686-dcb02031-af46-4b9d-a6b1-9c367a379d9f.gif" height="300px"/>
 
-### <img src="https://github.com/user-attachments/assets/4a3c0899-34b9-4216-8226-0b2f730328cf" alt="diana" style="vertical-align:middle; margin:2px; opacity:0.75; height:25px"> About Me:
+### <img src="https://github.com/user-attachments/assets/eb2d21e1-1b10-4fc2-9cf0-37feaf73d1aa" alt="bugs" style="vertical-align:middle; margin:2px; opacity:0.75; height:25px"> About Me:
 
 
-- <img src="https://github.com/user-attachments/assets/e0f5c7c1-eeef-4031-ad52-f014a0c0f70b" alt="pc" style="vertical-align:middle; margin:2px; opacity:0.75; height:18px"> &nbsp; I’m currently learning on [4 Geeks Academy](https://https://4geeksacademy.com/es/inicio).
+- <img src="https://github.com/user-attachments/assets/5bf22aae-eecf-4f77-8163-01429c2a2865" alt="pc" style="vertical-align:middle; margin:2px; opacity:0.75; height:18px"> &nbsp; I’m currently learning on [4 Geeks Academy](https://https://4geeksacademy.com/es/inicio).
 - <img src="https://github.com/user-attachments/assets/51f6d251-8b49-4079-9250-8c7186a9ad8d" alt="diana" style="vertical-align:middle; margin:2px; opacity:0.75; height:18px"> &nbsp; I’m looking for remote developer job.
 - <img src="https://github.com/user-attachments/assets/da7fe0b2-10b7-441c-8f68-7ddd2d31ada9" alt="star" style="vertical-align:middle; margin:2px; opacity:0.75; height:18px"> &nbsp; Most of my projects are available on [Github](https://github.com/daviniapd?tab=repositories).
 - 🎥 &nbsp; Previosly, I'm audiovisual producer and video/photo editor.
 - <img src="https://github.com/user-attachments/assets/2b21f2c4-ef99-4c1d-b441-1aabfe0ee7bc" alt="diana" style="vertical-align:middle; margin:2px; opacity:0.75; height:18px"> &nbsp; My previous skills and knowledge facilitate my learning speed in web design.
 - <img src="https://github.com/user-attachments/assets/1043f8dc-36c1-4a05-a223-c97f37d885e2" alt="diana" style="vertical-align:middle; margin:2px; opacity:0.75; height:22px"> &nbsp; I love technology, that's why I decided to take this career turn. 
 - <img src="https://github.com/user-attachments/assets/fdeb748b-adec-49c6-b761-62aaa650a495" alt="speak" style="vertical-align:middle; margin:2px; opacity:0.75; height:18px"> &nbsp; Ask me about anything information to me related, I am happy to answer.
-- <img src="https://github.com/user-attachments/assets/f2952d15-df8a-4249-b4b3-1fb41356a628" alt="speak" style="vertical-align:middle; margin:2px; opacity:0.75; height:18px"> &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/davinia-p-delgado).
+- <img src="https://github.com/user-attachments/assets/cfbf1a7e-fe7c-4a41-bc3d-1b095838a332" alt="speak" style="vertical-align:middle; margin:2px; opacity:0.75; height:18px"> &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/davinia-p-delgado).
 - <img src="https://github.com/user-attachments/assets/cc6bf341-cabc-4226-85ba-fb1bff43d458" alt="speak" style="vertical-align:middle; margin:2px; opacity:0.75; height:18px"> &nbsp; When I am free, I really enjoy going to the nature with my dog and my friends. 
 
 <br />
@@ -33,7 +33,6 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px"></a>
  <a href="https://www.python.org" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px"></a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px"></a>
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
@@ -48,14 +47,14 @@
 
 </p>
 
-  <!--### 👾 Github Stats...
+### <img src="https://github.com/user-attachments/assets/2ff05b8e-4e21-4e99-ab6a-435f781a8525" alt="dragon" style="vertical-align:middle; margin:4px; opacity:0.75; height:25px"> Github Stats...
 <p align="center" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=daviniapd&&show_icons=true&theme=radical"/>
   </a>
 
 </p>
- -->
+
 
  <br />
 
