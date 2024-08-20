@@ -48,12 +48,9 @@
 </p>
 
 ### <img src="https://github.com/user-attachments/assets/2ff05b8e-4e21-4e99-ab6a-435f781a8525" alt="dragon" style="vertical-align:middle; margin:4px; opacity:0.75; height:25px"> Github Stats...
-<p align="center" >
-<span href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=daviniapd&show_icons=true&theme=radical"/>
-  </span>
 
-</p>
+ [![Daviniapd's github stats](https://bad-apple-github-readme.vercel.app/api?username=daviniapd&show_icons=true&count_private=true&line_height=20&icon_color=800080&theme=blue-green&title_color=800080)](#)
+
 
 
  <br />
