@@ -50,8 +50,7 @@
 ### <img src="https://github.com/user-attachments/assets/2ff05b8e-4e21-4e99-ab6a-435f781a8525" alt="dragon" style="vertical-align:middle; margin:4px; opacity:0.75; height:25px"> Github Stats...
 <p align="center" >
 <span href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="![daviniapd's GitHub stats](https://github-readme-stats.vercel.app/api?username=daviniapd&show_icons=true&theme=radical)
-"/>
+    <img  src="![daviniapd's GitHub stats](https://github-readme-stats.vercel.app/api?username=daviniapd&show_icons=true&theme=radical)"/>
   </span>
 
 </p>
