@@ -11,6 +11,7 @@
 </h3>
   <a href="https://www.linkedin.com/in/davinia-p-delgado" target="_blank"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"/></a>
   <a href="https://github.com/daviniapd#:~:text=daviniaperezdelgado%40gmail.com" target="_blank" style="display: inline-block; vertical-align: middle;"><img height="30" src="https://cdn-icons-png.flaticon.com/256/324/324123.png"/></a> 
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/sheher_button_icon_151855.png" alt="pronounSheHer" height="30" >
 </div>
 
    <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/213760686-dcb02031-af46-4b9d-a6b1-9c367a379d9f.gif" width="30%" height="30%" style="vertical-align:middle"/>
@@ -32,24 +33,25 @@
 
 ### <img src="https://github.com/user-attachments/assets/31be5e71-5269-411e-9989-25a67c338170" alt="diana" style="vertical-align:middle; margin:2px; opacity:0.75; height:25px"> Languages and Tools...
 
-<p align="center">
-  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+<p align="left">
 
-  <a href="https://www.w3schools.com/tags/ref_byfunc.asp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px"></a>
- <a href="https://www.python.org" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px"></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px"></a>
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 
-   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="40" alt="bootstrap logo"  /></a> 
- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">	<img width="40px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/css-icon.svg" alt="CSS Icon" /></a> 
- <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">      <img src="https://skillicons.dev/icons?i=flask" width="40px" alt="Flask icon"/></a> 
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
- <a href="https://jestjs.io" target="_blank" rel="noreferrer"><img width="40px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/jest-icon.svg" alt="Jest Icon" /></a> 
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="40" height="40" style="vertical-align:down; margin:4px"/></a> 
- <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="40" alt="nodejs logo"  /></a> 
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/python_button_icon_151925.png" alt="python" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/js_button_icon_151927.png" alt="javascript" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/react_button_icon_151947.png" alt="react" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/html_button_icon_151929.png" alt="html" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/css_button_icon_151935.png" alt="CSS Icon" height="40" style="vertical-align:top; margin:4px"/>
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/bootstrap_button_icon_151958.png" height="40" alt="bootstrap logo"  />
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/nodejs_button_icon_151951.png" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.icon-icons.com/icons2/3049/PNG/512/git_icon_189418.png" alt="git" height="40"/>
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/bash_button_icon_151886.png" alt="bash" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://velog.velcdn.com/images/khyun11/post/f47f3398-35d5-463e-ba83-1f3730cf4d15/image.png" height="36" alt="Flask icon"/>
+  <img src="https://spin.atomicobject.com/wp-content/uploads/jest.png" height="36" alt="Jest Icon" />
+  <img title="MySQL" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mysql_horizontal_logo_icon_170929.png" height="36" alt="mySQL" />
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/npm_button_icon_151891.png" alt="npm" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/jquery_button_icon_151954.png" height="40" alt="jquery"  />
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/office_button_icon_151888.png" height="40" alt="office365"  />
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/visualstudio_code_button_icon_151868.png" alt="vscode" height="40" >
 
 </p>
 
