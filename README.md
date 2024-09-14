@@ -19,7 +19,7 @@
 ### <img src="https://github.com/user-attachments/assets/eb2d21e1-1b10-4fc2-9cf0-37feaf73d1aa" alt="bugs" style="vertical-align:middle; margin:2px; opacity:0.75; height:25px"> About Me:
 
 
-- <img src="https://github.com/user-attachments/assets/5bf22aae-eecf-4f77-8163-01429c2a2865" alt="pc" style="vertical-align:middle; margin:2px; opacity:0.75; height:22px"> &nbsp; I’m currently learning on [4 Geeks Academy]([https://https://4geeksacademy.com/es/inicio](https://4geeksacademy.com/es/premios).
+- <img src="https://github.com/user-attachments/assets/5bf22aae-eecf-4f77-8163-01429c2a2865" alt="pc" style="vertical-align:middle; margin:2px; opacity:0.75; height:22px"> &nbsp; I’m currently learning on [4 Geeks Academy](https://4geeksacademy.com/es/premios).
 - <img src="https://github.com/user-attachments/assets/51f6d251-8b49-4079-9250-8c7186a9ad8d" alt="diana" style="vertical-align:middle; margin:2px; opacity:0.75; height:20px"> &nbsp; I’m looking for remote developer job.
 - <img src="https://github.com/user-attachments/assets/da7fe0b2-10b7-441c-8f68-7ddd2d31ada9" alt="star" style="vertical-align:middle; margin:2px; opacity:0.75; height:20px"> &nbsp; Most of my projects are available on [Github](https://github.com/daviniapd?tab=repositories).
 - 🎥 &nbsp; Previosly, I'm audiovisual producer and filmmaker. 
