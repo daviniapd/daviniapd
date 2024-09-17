@@ -16,7 +16,7 @@
 
    <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/213760686-dcb02031-af46-4b9d-a6b1-9c367a379d9f.gif" width="30%" height="30%" style="vertical-align:middle"/>
 
-### <img src="https://github.com/user-attachments/assets/eb2d21e1-1b10-4fc2-9cf0-37feaf73d1aa" alt="bugs" style="vertical-align:middle; margin:2px; opacity:0.75; height:25px"> About Me:
+### <img src="https://github.com/user-attachments/assets/eb2d21e1-1b10-4fc2-9cf0-37feaf73d1aa" alt="bugs" style="vertical-align:middle; margin:2px; opacity:0.75; height:25px"> About Me: 
 
 
 - <img src="https://github.com/user-attachments/assets/5bf22aae-eecf-4f77-8163-01429c2a2865" alt="pc" style="vertical-align:middle; margin:2px; opacity:0.75; height:22px"> &nbsp; I’m currently learning on [4 Geeks Academy](https://4geeksacademy.com/es/premios).
