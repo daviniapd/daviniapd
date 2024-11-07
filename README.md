@@ -3,7 +3,7 @@
 
 <div align='left'style="vertical-align:middle">
 <h3>
-  <img src="https://github.com/user-attachments/assets/24712f10-9514-450f-96bb-3876c859bf5c" alt="red" style="vertical-align:middle; margin:2px; opacity:0.75; height:25px">
+  <img src="https://github.com/user-attachments/assets/24712f10-9514-450f-96bb-3876c859bf5c" alt="red" style="vertical-align:middle; margin:2px; opacity:0.75; height:25px"> 
   <span>Full Stack Developer</span>
   ||
   <img src="https://github.com/user-attachments/assets/6c4cf216-bdff-4e73-ae17-834a5dc77f75" alt="diana" style="vertical-align:middle; margin:2px; opacity:0.75; height:25px">
